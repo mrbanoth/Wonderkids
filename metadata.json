@@ -1,0 +1,6 @@
+{
+  "name": "BrightSprout — Kids Learning & Play Platform",
+  "description": "A playful, interactive children's learning and creative play platform featuring quizzes, hands-on activities, educational games, curated learning kits, and parenting resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
